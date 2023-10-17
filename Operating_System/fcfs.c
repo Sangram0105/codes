@@ -53,3 +53,5 @@ printf("\n");
 printf("\n");
 printf("Average TT is: %d ",(avgtt/n));
 printf("Average WT is: %d ",(avgwt/n));
+
+}
